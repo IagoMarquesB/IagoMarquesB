@@ -14,12 +14,13 @@ Olá, meu nome é Iago Marques. Eu sou formada em Filosofia mas atualemnte estou
 
 ### Habilidades
 
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![GitHUb](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E34F26)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
+
 
 ### Em aprendizado
 
