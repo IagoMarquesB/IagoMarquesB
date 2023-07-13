@@ -1,16 +1,16 @@
-### Hi there 👋
+Olá, meu nome é Iago Marques. Eu sou formada em Filosofia mas atualmente estou cursando a graduação em ciências da computação Eu tenho interesse em Back-end e pretendo me desenvolver na área.
 
-<!--
-**IagoMarquesB/IagoMarquesB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Conecte-se comigo
+Meu Perfil na Dio
 
-Here are some ideas to get you started:
+LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email
+
+GitHUb
+
+Habilidades
+HTML5 CSS3 Java GitHUb Git C#
+
+Em aprendizado
+Python
