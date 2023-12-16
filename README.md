@@ -4,8 +4,6 @@ Olá, meu nome é Iago Marques. Eu sou formada em Filosofia mas atualemnte estou
 
 ### Conecte-se comigo
 
-[![Meu Perfil na Dio](https://img.shields.io/badge/Meu_Perfil_na_DIO-000?style=for-the-badge&logologoColor=0E76A8)](https://web.dio.me/users/iagomarquesbarbosa)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/iago-marques-a42404268/)
 
 [![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=orange)](iagomarquesbarbosa@gmail.com)
@@ -25,3 +23,4 @@ Olá, meu nome é Iago Marques. Eu sou formada em Filosofia mas atualemnte estou
 ### Em aprendizado
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
