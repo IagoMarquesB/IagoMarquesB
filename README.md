@@ -1,6 +1,6 @@
 ### Quem sou eu
 
-Olá, meu nome é Iago Marques. Eu sou formada em Filosofia mas atualemnte estou cursando a graduação em ciências da computação.
+Olá, meu nome é Iago Marques. Eu sou formado em Filosofia mas atualmente estou cursando a graduação em Ciências Da Computação.
 
 ### Conecte-se comigo
 
