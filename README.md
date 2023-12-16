@@ -22,5 +22,5 @@ Olá, meu nome é Iago Marques. Eu sou formada em Filosofia mas atualemnte estou
 
 ### Em aprendizado
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
